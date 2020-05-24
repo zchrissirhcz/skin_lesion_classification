@@ -44,7 +44,7 @@ bash tools/make_binaryproto.sh
 
 3. [sklearn](http://scikit-learn.org/stable/), a python package, here for metrics calculation.
 
-4. [Weighted Softmax Cross Entropy Loss](https://github.com/zchrissirhcz/Weighted_Softmax_Loss)
+4. [Weighted Softmax Cross Entropy Loss](Weighted_Softmax_Loss)
 
 ### 3. Training and Evaluation
 
